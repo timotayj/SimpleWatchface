@@ -1,0 +1,21 @@
+{
+    "author": "itstim1234@googlemail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchface",
+    "pebble": {
+        "displayName": "WatchFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "5083f280-7fdf-421b-935d-6bd71d58f826",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
